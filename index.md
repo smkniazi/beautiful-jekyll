@@ -15,19 +15,62 @@ HopsFS is a next-generation distribution of Apache Hadoop File System, that deli
 
 
 ## Publications
-Scaling HDFS to more than 1 million operations per second with HopsFS. Mahmoud Ismail, **Salman Niazi**, Mikael Ronström, Seif Haridi and Jim Dowling.  CCGRID 2017: 17TH IEEE/ACM International Symposium on Cluster, Cloud and Grid. Madrid, Spain, 2017
 
-HopsFS: Scaling Hierarchical File System Metadata Using NewSQL Databases. **Salman Niazi**, Mahmoud Ismail, Seif Haridi, Jim Dowling, Steffen Grohsschmiedt and Mikael Ronström. 15th USENIX Conference on File and Storage Technologies. California, USA, 2017.
+The list of publication can also be found on [Google Scholar](https://scholar.google.se/citations?user=QKzyMtUAAAAJ&hl=en) and [DBLP](http://dblp.uni-trier.de/pers/hd/n/Niazi:Salman).
 
-Leader Election Using NewSQL Database Systems **Salman Niazi**, Mahmoud Ismail, Gautier Berthou and Jim Dowling. Distributed Applications and Interoperable Systems: 15th IFIP WG 6.1 International Conference, DAIS 2015. Grenoble, France, 2015.
+### 2017
 
-BiobankCloud: A Platform for the Secure Storage, Sharing, and Processing of Large Biomedical Data Sets. Alysson Bessani, Jörgen Brandt, Marc Bux, Vinicius Cogo, Lora Dimitrova, Jim Dowling, Ali Gholami, Kamal Hakimzadeh, Micheal Hummel, Mahmoud Ismail, Erwin Laure, Ulf Leser, Jan-Eric Litton, Roxanna Martinez, **Salman Niazi**, Jane Reichel, Karin Zimmermann. VLDB Workshop on Big Graphs Online Querying. Hawaii, USA, 2015.
+<img src="https://img.shields.io/badge/-Conference%20Paper-green.svg?style=plastic" height="22px">
+<img src="../img/award.png" height="20px">
+**Scaling HDFS to more than 1 million operations per second with HopsFS**. Mahmoud Ismail, **Salman Niazi**, Mikael Ronström, Seif Haridi and Jim Dowling. 17TH IEEE/ACM International Symposium on Cluster, Cloud and Grid (**CCGRID**). Madrid, Spain, 2017.
+**<span style="color:green">It won the 10th IEEE International Scalable Computing Challenge (SCALE 2017)."</span>**
+[<img src="../img/pdf.png" height="20px">](./files/2017-CCGRID-Paper.pdf  "Download Paper")
+[<img src="../img/slides.png" height="20px">](./files/2017-CCGRID-Slides.pptx "Download Slides")
+[<img src="../img/video.png" height="20px">](./files/2017-CCGRID-Demo.mp4 "Download Video")
+[<img src="../img/bibtex.png" height="20px">](./files/2017-CCGRID-bibtex.bib "Download BibTex")
+[<img src="../img/award.png" height="20px">](./files/2017-CCGRID-Cert.pdf "Download Award Certificate")
+
+
+<img src="https://img.shields.io/badge/-Conference%20Poster-lightgrey.svg?style=plastic" height="22px">
+**Size Matters: Improving the Performance of Small Files in HDFS**. **Salman Niazi**, Seif Haridi, Jim Dowling. Poster Presented at EuroSys 2017,Belgrade, Serbia.
+[<img src="../img/pdf.png" height="20px">](./files/2017-EuroSys-Paper.pdf  "Download Paper")
+
+<img src="https://img.shields.io/badge/-Conference%20Paper-green.svg?style=plastic" height="22px">
+**HopsFS: Scaling Hierarchical File System Metadata Using NewSQL Databases**. **Salman Niazi**, Mahmoud Ismail, Seif Haridi, Jim Dowling, Steffen Grohsschmiedt and Mikael Ronström. 15th USENIX Conference on File and Storage Technologies (**USENIX FAST**). California, USA, 2017.
+[<img src="../img/pdf.png" height="20px">](./files/2017-FAST-Paper.pdf  "Download Paper")
+[<img src="../img/slides.png" height="20px">](./files/2017-FAST-Slides.pptx "Download Slides")
+[<img src="../img/bibtex.png" height="20px">](./files/2017-FAST-BibTex.bib "Download BibTex")
+
+### 2015
+
+<img src="https://img.shields.io/badge/-Conference%20Paper-green.svg?style=plastic" height="22px">
+**Leader Election Using NewSQL Database Systems**. **Salman Niazi**, Mahmoud Ismail, Gautier Berthou and Jim Dowling. Distributed Applications and Interoperable Systems: 15th IFIP WG 6.1 International Conference (**DAIS**). Grenoble, France, 2015.
+[<img src="../img/pdf.png" height="20px">](./files/2015-DIAS-Paper.pdf  "Download Paper")
+[<img src="../img/slides.png" height="20px">](./files/2015-DIAS-Slides.pptx "Download Slides")
+[<img src="../img/bibtex.png" height="20px">](./files/2015-DIAS-BibTex.bib "Download BibTex")
+
+<img src="https://img.shields.io/badge/-Workshop%20Paper-yellowgreen.svg?style=plastic" height="22px">
+**BiobankCloud: A Platform for the Secure Storage, Sharing, and Processing of Large Biomedical Data Sets**. Alysson Bessani, Jörgen Brandt, Marc Bux, Vinicius Cogo, Lora Dimitrova, Jim Dowling, Ali Gholami, Kamal Hakimzadeh, Micheal Hummel, Mahmoud Ismail, Erwin Laure, Ulf Leser, Jan-Eric Litton, Roxanna Martinez, **Salman Niazi**, Jane Reichel, Karin Zimmermann. **VLDB Workshop on Big Graphs Online Querying**. Hawaii, USA, 2015.
+[<img src="../img/pdf.png" height="20px">](./files/2015-VLDB-Paper.pdf  "Download Paper")
+[<img src="../img/bibtex.png" height="20px">](./files/2015-VLDB-BibTex.bib "Download BibTex")
     
-Privacy-preservation for publishing sample availability data with personal identifiers. Ali Gholami, Erwin Laure, Peter Somogyi, Ola Spjuth, **Salman Niazi**, Jim Dowling. Journal of Medical and Bioengineering. 2015.
+<img src="https://img.shields.io/badge/-Journal%20Paper-red.svg?style=plastic" height="22px">
+**Privacy-preservation for publishing sample availability data with personal identifiers**. Ali Gholami, Erwin Laure, Peter Somogyi, Ola Spjuth, **Salman Niazi**, Jim Dowling. **Journal of Medical and Bioengineering**. 2015.
+[<img src="../img/pdf.png" height="20px">](./files/2015-Journal-Paper.pdf  "Download Paper")
+[<img src="../img/bibtex.png" height="20px">](./files/2015-Journal-BibTex.bib "Download BibTex")
 
-Usurp: Distributed NAT Traversal for Overlay Networks. **Salman Niazi** and Jim Dowling. Distributed Applications and Interoperable Systems: 11th IFIP WG 6.1 International Conference, DAIS. Reykjavik, Iceland. 2011
+### 2011
 
-A skew handling join algorithm for Google's MapReduce framework. Fariha Atta, Stratis D. Viglas, **Salman Niazi**. 2011 IEEE 14th International Multitopic Conference (INMIC). Karachi, Pakistan, 2011.
+<img src="https://img.shields.io/badge/-Conference%20Paper-green.svg?style=plastic" height="22px">
+**Usurp: Distributed NAT Traversal for Overlay Networks**. **Salman Niazi** and Jim Dowling. Distributed Applications and Interoperable Systems: 11th IFIP WG 6.1 International Conference, (**DAIS**). Reykjavik, Iceland. 2011
+[<img src="../img/pdf.png" height="20px">](./files/2011-DIAS-Paper.pdf  "Download Paper")
+[<img src="../img/slides.png" height="20px">](./files/2011-DIAS-Slides.pptx "Download Slides")
+[<img src="../img/bibtex.png" height="20px">](./files/2011-DIAS-BibTex.bib "Download BibTex")
+
+<img src="https://img.shields.io/badge/-Conference%20Paper-green.svg?style=plastic" height="22px">
+**A skew handling join algorithm for Google's MapReduce framework**. Fariha Atta, Stratis D. Viglas, **Salman Niazi**. 2011 IEEE 14th International Multitopic Conference (**INMIC**). Karachi, Pakistan, 2011.
+[<img src="../img/pdf.png" height="20px">](./files/2011-INMIC-Paper.pdf  "Download Paper")
+[<img src="../img/bibtex.png" height="20px">](./files/2011-INMIC-BibTex.bib "Download BibTex")
 
 ## Awards
 
