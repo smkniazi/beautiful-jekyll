@@ -73,6 +73,38 @@ The list of publication can also be found on [Google Scholar](https://scholar.go
 [<img src="../img/bibtex.png" height="20px">](./files/2011-INMIC-BibTex.bib "Download BibTex")
 
 ## Awards
+- **2017** -- Won the 10th IEEE International Scalable Computing Challenge (SCALE 2017).
+- **2008** -- Received overseas scholarship for Masters and PhD by Higher Education Commission of Pakistan.
+- **2006** -- Project “Bluetooth Ad Hoc Network Framework for Mobile Devices” stood 1st in KTech Software Competition, held in Kohat University, Pakistan.
+- **2006** -- Project “Bluetooth Ad Hoc Network Framework for Mobile Devices” stood 3rd in fifth All Pakistan Inter College/University Software Competition and Exhibition, COMPPEC 2006 held in NUST, Pakistan.
+- **2002 - 2006** -- Placed in the Dean’s List of Academic Excellence, in BS(CS) in NUCES, Pakistan. 
+- **2006** -- Gold Medal for standing first in BS (CS).
+- **2000 - 2002** -- Edwardes’ College Gold Medal for Academic Excellence in 2001 and 2002.
+
+## Teaching 
+
+- **2013 - 2016** - Teaching Assistant for the Peer-to-Peer and Grid Computing Course (ID2210) at KTH, Sweden.
+- **2015 - 2016** - Teaching Assistant for the Operating Systems Courses (IS1350 & ID2200) at KTH, Sweden.
+- **2016** - Teaching Assistant for the Data Mining Course (ID2222) at KTH, Sweden.
+- **2011** - Course Instructor for Network Programming and Data Structures courses at NUCES, Pakistan.  
+
+
+## Contact
+
+<script language="JavaScript">
+var username = "smkniazi";
+var hostname = "kth[.]se"; 
+var linktext = username + "(at)" + hostname ;
+document.write("<b>Email:  </b><a href='" + "mail" + "to:" + username + "(at)" + hostname + "'>" + linktext + "</a>");
+</script>
+<script language="JavaScript">
+var username = "salman[dot]nz";
+var hostname = "gmail[.]com"; 
+var linktext = username + "(at)" + hostname ;
+document.write(", <a href='" + "mail" + "to:" + username + "(at)" + hostname + "'>" + linktext + "</a>");
+</script>
+**Phone:** 0046 (0) 70 191 71 75
+
 
 
 
