@@ -93,13 +93,13 @@ The list of publication can also be found on [Google Scholar](https://scholar.go
 
 <script language="JavaScript">
 var username = "smkniazi";
-var hostname = "kth[.]se"; 
+var hostname = "kth[dot]se"; 
 var linktext = username + "(at)" + hostname ;
 document.write("<b>Email:  </b><a href='" + "mail" + "to:" + username + "(at)" + hostname + "'>" + linktext + "</a>");
 </script>
 <script language="JavaScript">
 var username = "salman[dot]nz";
-var hostname = "gmail[.]com"; 
+var hostname = "gmail[dot]com"; 
 var linktext = username + "(at)" + hostname ;
 document.write(", <a href='" + "mail" + "to:" + username + "(at)" + hostname + "'>" + linktext + "</a>");
 </script>
