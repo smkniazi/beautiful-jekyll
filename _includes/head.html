@@ -5,6 +5,15 @@
 
   <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
+  <!--https://stackoverflow.com/questions/15389370/how-to-make-google-index-my-custom-domain-instead-of-the-github-pages-domain-->
+  <link rel="canonical" href="http://www.salmanniazi.com"/>
+  <script>
+	  if ( window.self === window.top ) { 
+		// console.log("not in a frame") 
+		   window.location.href = 'http://www.salmanniazi.com';
+		}
+  </script>
+
   <meta name="author" content="{{ site.author.name }}" />
 
   {% if page.subtitle %}
