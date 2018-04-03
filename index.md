@@ -18,6 +18,13 @@ HopsFS is a next-generation distribution of Apache Hadoop File System, that deli
 
 The list of publication can also be found on [Google Scholar](https://scholar.google.se/citations?user=QKzyMtUAAAAJ&hl=en) and [DBLP](http://dblp.uni-trier.de/pers/hd/n/Niazi:Salman).
 
+### 2018
+
+<img src="https://img.shields.io/badge/-Book%20Chapter-red.svg?style=plastic" height="22px">
+**HopsFS: Scaling Hierarchical File System Metadata Using NewSQL Databases**.     **Salman Niazi**, Mahmoud Ismail, Seif Haridi, Jim Dowling. **Encyclopedia of Big Data Technologies**, Springer International Publishing. 2018.
+[<img src="../img/pdf.png" height="20px">](./files/2018-Springer-Chapter.pdf  "Download Paper")
+[<img src="../img/bibtex.png" height="20px">](./files/2018-Springer-Chapter.bib "Download BibTex")
+
 ### 2017
 
 <img src="https://img.shields.io/badge/-Conference%20Paper-green.svg?style=plastic" height="22px">
